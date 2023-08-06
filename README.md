@@ -7,8 +7,7 @@ This is a simple web application built with Streamlit and Spacy for performing N
 To get started with the application, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/morteza-sharifi1/name-entity-recognition
-cd your-repository
+git clone [https://github.com/morteza-sharifi1/name-entity-recognition](https://github.com/morteza-sharifi1/name-entity-recognition.git)
 
 
 3. Run the application:
